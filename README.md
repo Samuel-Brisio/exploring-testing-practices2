@@ -48,9 +48,20 @@ Para cada repositório, escolha uma prática ou dado de teste relevante e expliq
 
 Repositório: `https://github.com/PostHog/posthog`
 
-URL TestMiner: `https://andrehora.github.io/testminer/#rohitg00/ai-engineering-from-scratch`
+URL TestMiner: `https://andrehora.github.io/testminer/#PostHog/posthog`
 
 Explicação: `<SUA_EXPLICAÇÃO>`
+
+<img width="957" height="932" alt="image" src="https://github.com/user-attachments/assets/646bb8f6-5605-4124-9470-1c5f9e1f7ab9" />
+
+O PostHog é um projeto de software de grande porte, escrito principalmente em Python. A captura do TestMiner mostra 36.391 arquivos de código-fonte e 10330 diferentes categorias relacionadas a testes.
+Prática de teste identificada: Integração contínua de testes end-to-end com seleção de testes baseada nas alterações.
+
+O projeto PostHog utiliza GitHub Actions para automatizar a execução de testes end-to-end (E2E) com Playwright. O workflow analisado pode ser acionado por eventos do repositório e possui mecanismos para selecionar testes relevantes em determinados pull requests, além de permitir execuções completas da suíte em outras situações.
+
+Essa prática busca reduzir o tempo de feedback durante o desenvolvimento sem abandonar a verificação integrada da aplicação. A execução paralela dos testes e as tentativas adicionais para lidar com falhas também demonstram preocupações com o desempenho e a confiabilidade do pipeline.
+
+Na análise realizada pelo TestMiner, foram identificados 112 itens na categoria E2E e 62 na categoria CI Tests, reforçando o comportamento visto.
 
 ### Repositório 2
 
