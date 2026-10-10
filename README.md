@@ -46,9 +46,9 @@ Para cada repositório, escolha uma prática ou dado de teste relevante e expliq
 
 ### Repositório 1 
 
-Repositório: `<URL_DO_REPOSITÓRIO>`
+Repositório: `https://github.com/PostHog/posthog`
 
-URL TestMiner: `<URL_NO_TESTMINER>`
+URL TestMiner: `https://andrehora.github.io/testminer/#rohitg00/ai-engineering-from-scratch`
 
 Explicação: `<SUA_EXPLICAÇÃO>`
 
